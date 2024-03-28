@@ -1,8 +1,8 @@
 import { useRef } from "react"
 import { useCarritoContext } from "../context/CartContext.jsx"
-//import { Link, useNavigate } from "react-router-dom"
-//import { toast } from "react-toastify"
-import { createOrdenCompra, getOrdenCompra, getProduct, updateProduct } from "../firebase/firebase.js"
+import { Link, useNavigate } from "react-router-dom"
+import { toast } from "react-toastify"
+import { createOrdenCompra, getOrdenCompra, getProducts, updateProduct } from "../firebase/firebase.js"
 
 export const Checkout = () => {
     const formRef = useRef()
@@ -19,7 +19,7 @@ export const Checkout = () => {
         const aux = [...carrito]
 
         aux.forEach(prodCarrito => {
-            getProduct(prodCarrito.id).then(prodBDD => {
+            getProducts(prodCarrito.id).then(prodBDD => {
                 if (prodBDD.stock >= prodCarrito.quantity) { //Si existe stock suficinete para realizar la compra
                     prodBDD.stock -= prodCarrito.quantity
                     updateProduct(prodBDD.id, prodBDD)

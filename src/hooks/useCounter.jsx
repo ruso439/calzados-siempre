@@ -9,7 +9,7 @@ export const useCounter = (minValue = 0, maxValue = 1, step = 1) => {
     }
 
     const decrement = () => {
-        if(count + setp >= minValue)
+        if(count - setp >= minValue)
             setCount(count + step)
     }
 

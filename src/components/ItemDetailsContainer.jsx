@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
-//import { useParams } from "react-router-dom"
-import { getProduct } from "../firebase/firebase.js"
+import { useParams } from "react-router-dom"
+import { getProducts } from "../firebase/firebase.js"
 import { ItemDetail } from "./ItemDetail"
 
 export const ItemDetailsContainer = () => {
@@ -8,7 +8,7 @@ export const ItemDetailsContainer = () => {
     const { pid } = useParams()
 
     useEffect(() => {
-        getProduct(pid)
+        getProducts(pid)
             .then(prod => setItem(prod))
             .catch(error => console.log(error))
     }, [])
