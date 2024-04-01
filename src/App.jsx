@@ -8,12 +8,14 @@ import { ItemDetailsContainer } from './components/ItemDetailsContainer'
 import { NotFound } from './components/NotFound'
 import { CarritoProvider } from './context/CartContext'
 import { ToastContainer } from 'react-toastify'
+import { CarouselWithIndicators } from "./components/Carousel"
 
 export const App = () => {
   return (
     <BrowserRouter>
       <CarritoProvider>
         <Navbar />
+        <CarouselWithIndicators />
         <ToastContainer />
         <Routes>
           <Route path='/' element={<ItemListContainer />} />
