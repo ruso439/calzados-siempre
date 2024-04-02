@@ -41,3 +41,5 @@ export const CarouselWithIndicators=()=> {
     </>
   );
 }
+
+export default CarouselWithIndicators;

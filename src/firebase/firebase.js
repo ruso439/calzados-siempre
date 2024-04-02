@@ -19,7 +19,7 @@ const productos = [
         "size": "40-42",
         "price": 15000,
         "stock": 10,
-        "img": "src/firebase/img/adultos/zapatillasadulto1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto1.jpg",
         "category": "adultos"
     },
     {
@@ -27,7 +27,7 @@ const productos = [
         "size": "Small",
         "price": 22000,
         "stock": 15,
-        "img": "src/firebase/img/adultos/zapatillasadulto2.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto2.jpg",
         "category": "adultos"
     },
     {
@@ -35,7 +35,7 @@ const productos = [
         "size": "Medium",
         "price": 21000,
         "stock": 9,
-        "img": "src/firebase/img/adultos/zapatillasadulto3.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto3.jpg",
         "category": "adultos"
     },
     {
@@ -43,7 +43,7 @@ const productos = [
         "size": "Medium",
         "price": 21000,
         "stock": 9,
-        "img": "src/firebase/img/adultos/zapatillasadulto4.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto4.jpg",
         "category": "adultos"
     },
     {
@@ -51,7 +51,7 @@ const productos = [
         "size": "Medium",
         "price": 21000,
         "stock": 9,
-        "img": "src/firebase/img/adultos/zapatillasadulto5.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto5.jpg",
         "category": "adultos"
     },
     {
@@ -59,7 +59,7 @@ const productos = [
         "size": "Medium",
         "price": 21000,
         "stock": 9,
-        "img": "src/firebase/img/adultos/zapatillasadulto6.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto6.jpg",
         "category": "adultos"
     },
     {
@@ -67,7 +67,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto7.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto7.jpg",
         "category": "adultos"
     },
     {
@@ -75,7 +75,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto8.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto8.jpg",
         "category": "adultos"
     },
     {
@@ -83,7 +83,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto9.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto9.jpg",
         "category": "adultos"
     },
     {
@@ -91,7 +91,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto10.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto10.jpg",
         "category": "adultos"
     },
     {
@@ -99,7 +99,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto11.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto11.jpg",
         "category": "adultos"
     },
     {
@@ -107,7 +107,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto12.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto12.jpg",
         "category": "adultos"
     },
     {
@@ -115,7 +115,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto13.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto13.jpg",
         "category": "adultos"
     },
     {
@@ -123,7 +123,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto14.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto14.jpg",
         "category": "adultos"
     },
     {
@@ -131,7 +131,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto15.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto15.jpg",
         "category": "adultos"
     },
     {
@@ -139,7 +139,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto16.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto16.jpg",
         "category": "adultos"
     },
     {
@@ -147,7 +147,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto17.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto17.jpg",
         "category": "adultos"
     },
     {
@@ -155,7 +155,7 @@ const productos = [
         "size": "27-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto18.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto18.jpg",
         "category": "adultos"
     },
     {
@@ -163,7 +163,7 @@ const productos = [
         "size": "35-45",
         "price": 25000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto19.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto19.jpg",
         "category": "adultos"
     },
     {
@@ -171,7 +171,7 @@ const productos = [
         "size": "35-45",
         "price": 25000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto20.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto20.jpg",
         "category": "adultos"
     },
     {
@@ -179,7 +179,7 @@ const productos = [
         "size": "35-45",
         "price": 25000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto21.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto21.jpg",
         "category": "adultos"
     },
     {
@@ -187,7 +187,7 @@ const productos = [
         "size": "35-45",
         "price": 25000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto22.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto22.jpg",
         "category": "adultos"
     },
     {
@@ -195,7 +195,7 @@ const productos = [
         "size": "27-34",
         "price": 25000,
         "stock": 50,
-        "img": "src/firebase/img/adultos/zapatillasadulto22.jpg",
+        "img": "gs://calzados-siempre.appspot.com/adultos/zapatillasadulto23.jpg",
         "category": "adultos"
     },
     {
@@ -203,7 +203,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi17.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi17.jpg",
         "category": "niños"
     },
     {
@@ -211,7 +211,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi18.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi18.jpg",
         "category": "niños"
     },
     {
@@ -219,7 +219,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi19.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi19.jpg",
         "category": "niños"
     },
     {
@@ -227,7 +227,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi20.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi20.jpg",
         "category": "niños"
     },
     {
@@ -235,7 +235,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi21.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi21.jpg",
         "category": "niños"
     },
     {
@@ -243,7 +243,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi22.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi22.jpg",
         "category": "niños"
     },
     {
@@ -251,7 +251,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi23.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi23.jpg",
         "category": "niños"
     },
     {
@@ -259,15 +259,7 @@ const productos = [
         "size": "17-34",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/bendi/bendi24.jpg",
-        "category": "niños"
-    },
-    {
-        "title": "BENDI",
-        "size": "17-34",
-        "price": 15000,
-        "stock": 50,
-        "img": "src/firebase/img/bendi/bendi17.jpg",
+        "img": "gs://calzados-siempre.appspot.com/bendi/bendi24.jpg",
         "category": "niños"
     },
     {
@@ -275,7 +267,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos1.jpg",
         "category": "niños"
     },
     {
@@ -283,7 +275,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos2.jpg",
         "category": "niños"
     },
     {
@@ -291,7 +283,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos2.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos3.jpg",
         "category": "niños"
     },
     {
@@ -299,7 +291,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos3.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos4.jpg",
         "category": "niños"
     },
     {
@@ -307,7 +299,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos4.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos5.jpg",
         "category": "niños"
     },
     {
@@ -315,7 +307,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos5.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos6.jpg",
         "category": "niños"
     },
     {
@@ -323,7 +315,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos6.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos7.jpg",
         "category": "niños"
     },
     {
@@ -331,7 +323,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos7.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos8.jpg",
         "category": "niños"
     },
     {
@@ -339,7 +331,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos8.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos9.jpg",
         "category": "niños"
     },
     {
@@ -347,7 +339,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos9.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos10.jpg",
         "category": "niños"
     },
     {
@@ -355,7 +347,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos10.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos11.jpg",
         "category": "niños"
     },
     {
@@ -363,7 +355,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos11.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos12.jpg",
         "category": "niños"
     },
     {
@@ -371,7 +363,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos12.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos13.jpg",
         "category": "niños"
     },
     {
@@ -379,7 +371,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos13.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos14.jpg",
         "category": "niños"
     },
     {
@@ -387,7 +379,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos14.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos15.jpg",
         "category": "niños"
     },
     {
@@ -395,7 +387,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos15.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos16.jpg",
         "category": "niños"
     },
     {
@@ -403,7 +395,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos16.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos17.jpg",
         "category": "niños"
     },
     {
@@ -411,7 +403,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos17.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos18.jpg",
         "category": "niños"
     },
     {
@@ -419,7 +411,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos18.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos19.jpg",
         "category": "niños"
     },
     {
@@ -427,7 +419,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos19.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos20.jpg",
         "category": "niños"
     },
     {
@@ -435,7 +427,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos20.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos21.jpg",
         "category": "niños"
     },
     {
@@ -443,7 +435,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos21.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos22.jpg",
         "category": "niños"
     },
     {
@@ -451,7 +443,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos22.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos23.jpg",
         "category": "niños"
     },
     {
@@ -459,7 +451,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos23.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos24.jpg",
         "category": "niños"
     },
     {
@@ -467,7 +459,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos24.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos25.jpg",
         "category": "niños"
     },
     {
@@ -475,7 +467,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos25.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos26.jpg",
         "category": "niños"
     },
     {
@@ -483,7 +475,7 @@ const productos = [
         "size": "17-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos26.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos27.jpg",
         "category": "niños"
     },
     {
@@ -491,7 +483,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos27.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos28.jpg",
         "category": "niños"
     },
     {
@@ -499,7 +491,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos28.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos29.jpg",
         "category": "niños"
     },
     {
@@ -507,7 +499,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos29.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos30.jpg",
         "category": "niños"
     },
     {
@@ -515,7 +507,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos38.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos31.jpg",
         "category": "niños"
     },
     {
@@ -523,7 +515,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos39.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos32.jpg",
         "category": "niños"
     },
     {
@@ -531,7 +523,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos40.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos33.jpg",
         "category": "niños"
     },
     {
@@ -539,7 +531,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos41.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos34.jpg",
         "category": "niños"
     },
     {
@@ -547,7 +539,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos42.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos35.jpg",
         "category": "niños"
     },
     {
@@ -555,7 +547,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos43.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos36.jpg",
         "category": "niños"
     },
     {
@@ -563,7 +555,7 @@ const productos = [
         "size": "21-26",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos44.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos37.jpg",
         "category": "niños"
     },
     {
@@ -571,7 +563,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos44.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos38.jpg",
         "category": "adultos"
     },
     {
@@ -579,7 +571,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos46.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos39.jpg",
         "category": "adultos"
     },
     {
@@ -587,7 +579,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos47.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos40.jpg",
         "category": "adultos"
     },
     {
@@ -595,7 +587,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos48.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos41.jpg",
         "category": "adultos"
     },
     {
@@ -603,7 +595,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos53.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos42.jpg",
         "category": "adultos"
     },
     {
@@ -611,7 +603,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos54.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos43.jpg",
         "category": "adultos"
     },
     {
@@ -619,7 +611,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos55.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos44.jpg",
         "category": "adultos"
     },
     {
@@ -627,7 +619,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos56.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos45.jpg",
         "category": "adultos"
     },
     {
@@ -635,7 +627,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos57.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos46.jpg",
         "category": "adultos"
     },
     {
@@ -643,7 +635,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos58.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos47.jpg",
         "category": "adultos"
     },
     {
@@ -651,7 +643,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos59.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos48.jpg",
         "category": "adultos"
     },
     {
@@ -659,7 +651,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos60.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos53.jpg",
         "category": "adultos"
     },
     {
@@ -667,7 +659,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos61.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos54.jpg",
         "category": "adultos"
     },
     {
@@ -675,7 +667,63 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/chicos/zapatillaschicos62.jpg",
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos55.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos56.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos57.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos58.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos59.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos60.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos61.jpg",
+        "category": "adultos"
+    },
+    {
+        "title": "CAMBIAR NOMBRE",
+        "size": "35-40",
+        "price": 15000,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos62.jpg",
         "category": "adultos"
     },
     {
@@ -683,7 +731,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas1.jpg",
         "category": "adultos"
     },
     {
@@ -691,7 +739,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota2.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas2.jpg",
         "category": "adultos"
     },
     {
@@ -699,7 +747,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota3.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas3.jpg",
         "category": "adultos"
     },
     {
@@ -707,7 +755,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota4.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas4.jpg",
         "category": "adultos"
     },
     {
@@ -715,7 +763,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota5.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas5.jpg",
         "category": "adultos"
     },
     {
@@ -723,7 +771,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota6.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas6.jpg",
         "category": "adultos"
     },
     {
@@ -731,7 +779,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota7.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas7.jpg",
         "category": "adultos"
     },
     {
@@ -739,7 +787,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota8.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas8.jpg",
         "category": "adultos"
     },
     {
@@ -747,7 +795,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota9.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas9.jpg",
         "category": "adultos"
     },
     {
@@ -755,7 +803,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota10.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas10.jpg",
         "category": "adultos"
     },
     {
@@ -763,7 +811,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota11.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas11.jpg",
         "category": "adultos"
     },
     {
@@ -771,7 +819,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota12.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas12.jpg",
         "category": "adultos"
     },
     {
@@ -779,7 +827,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota13.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas13.jpg",
         "category": "adultos"
     },
     {
@@ -787,7 +835,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota14.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas14.jpg",
         "category": "adultos"
     },
     {
@@ -795,7 +843,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota15.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas15.jpg",
         "category": "adultos"
     },
     {
@@ -803,7 +851,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota16.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas16.jpg",
         "category": "adultos"
     },
     {
@@ -811,7 +859,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/ojotas/ojota17.jpg",
+        "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas17.jpg",
         "category": "adultos"
     },
     {
@@ -819,7 +867,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/botines1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/botines1.jpg",
         "category": "adultos"
     },
     {
@@ -827,7 +875,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/botines2.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/botines2.jpg",
         "category": "adultos"
     },
     {
@@ -835,7 +883,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/botines3.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/botines3.jpg",
         "category": "adultos"
     },
     {
@@ -843,7 +891,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/pantufla1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/pantufla1.jpg",
         "category": "adultos"
     },
     {
@@ -851,7 +899,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/pantufla2.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/pantufla2.jpg",
         "category": "adultos"
     },
     {
@@ -859,7 +907,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/pantufla3.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/pantufla3.jpg",
         "category": "adultos"
     },
     {
@@ -867,7 +915,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/zapatos1.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/zapatos1.jpg",
         "category": "adultos"
     },
     {
@@ -875,7 +923,7 @@ const productos = [
         "size": "35-40",
         "price": 15000,
         "stock": 50,
-        "img": "src/firebase/img/varios/zapatos2.jpg",
+        "img": "gs://calzados-siempre.appspot.com/varios/zapatos2.jpg",
         "category": "adultos"
     }
 ]
