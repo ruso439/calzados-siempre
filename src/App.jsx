@@ -9,8 +9,16 @@ import { NotFound } from './components/NotFound'
 import { CarritoProvider } from './context/CartContext'
 import { ToastContainer } from 'react-toastify'
 import { CarouselWithIndicators } from "./components/Carousel"
+import React, { useEffect } from "react"
+import { useCarousel } from "./hooks/useCarousel"
 
 export const App = () => {
+  const { initializeCarousel } = useCarousel();
+
+  useEffect(() => {
+    initializeCarousel();
+  }, []);
+
   return (
     <BrowserRouter>
       <CarritoProvider>
