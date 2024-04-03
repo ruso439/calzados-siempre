@@ -1,5 +1,4 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faHome, faTree, faSeedling } from "@fortawesome/free-solid-svg-icons"
+import { FaGlobe, FaFacebook, FaInstagram } from 'react-icons/fa'
 import { Link } from "react-router-dom"
 export const Categories = () => {
     return (
@@ -7,8 +6,7 @@ export const Categories = () => {
             <li className="text-white">
                 <Link to={'/'}>
                     <button className="bg-teal-500 text-white px-4 py-2 rounded flex items-center">
-                        <FontAwesomeIcon icon={faEnvelope} className="mr-2" />
-                        <span>0</span>
+                    <FaGlobe />
                     </button>
                 </Link>
 
@@ -16,16 +14,14 @@ export const Categories = () => {
             <li className="text-white">
                 <Link to={'/category/interior'}>
                     <button className="bg-teal-500 text-white px-4 py-2 rounded flex items-center">
-                        <FontAwesomeIcon icon={faFacebook} className="mr-2" />
-                        <span>0</span>
+                    <FaFacebook />
                     </button>
                 </Link>
             </li>
             <li className="text-white">
                 <Link to={'/category/exterior'}>
                     <button className="bg-teal-500 text-white px-4 py-2 rounded flex items-center">
-                        <FontAwesomeIcon icon={faInstagram} className="mr-2" />
-                        <span>0</span>
+                    <FaInstagram />
                     </button>
                 </Link>
 

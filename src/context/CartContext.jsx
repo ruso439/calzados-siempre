@@ -1,16 +1,16 @@
 import { useState, createContext, useContext } from "react";
 
-const CarritoContext = createContext() //Creando el contexto (por el momento vacio)
+const CarritoContext = createContext() 
 
-export const useCarritoContext = () => useContext(CarritoContext) //Funcion para consultar mi contexto en otros componentes
+export const useCarritoContext = () => useContext(CarritoContext)
 
-export const CarritoProvider = (props) => { //Forma de proveer el contexto, puede recibir props
+export const CarritoProvider = (props) => { 
 
     const [carrito, setCarrito] = useState([])
 
     //Buscar Producto
     const isInCart = (id) => {
-        return carrito.some(prod => prod.id === id) //V o F, si existe o no el producto en el carrito
+        return carrito.some(prod => prod.id === id) 
     }
 
     //Agregar producto
