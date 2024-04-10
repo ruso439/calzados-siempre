@@ -184,9 +184,9 @@
         "category": "adultos"
     },
     {
-        "title": "BENDI",
-        "size": "17-34",
-        "price": 15000,
+        "title": "BENDI BRILLO ARCOIRIS ART.910",
+        "size": "27-34",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/bendi/bendi17.jpg",
         "category": "niños"
@@ -224,129 +224,169 @@
         "category": "niños"
     },
     {
-        "title": "BENDI",
+        "title": "BENDI LONA BORDO ART.900",
         "size": "17-34",
-        "price": 15000,
+        "price": 13900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/bendi/bendi22.jpg",
         "category": "niños"
     },
     {
-        "title": "BENDI",
-        "size": "17-34",
-        "price": 15000,
+        "title": "BENDI BRILLO PLATA ART.910",
+        "size": "27-34",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/bendi/bendi23.jpg",
         "category": "niños"
     },
     {
-        "title": "BENDI",
-        "size": "17-34",
-        "price": 15000,
+        "title": "BENDI BRILLO PLATA ART.910",
+        "size": "27-34",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/bendi/bendi24.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA BRILLO ARCOIRIS ART.910",
+        "size": "17-26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos1.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA BRILLO PLATA ART.910",
+        "size": "17-26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos2.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA LONA JEAN ROSA ART.900",
+        "size": "17-26",
+        "price": 13900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos3.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA ESPEJO PLATA ART.910",
+        "size": "17-26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos4.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA BRILLO NEGRA ART.910",
+        "size": "17-26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos5.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA ECO CUERO MARRON ART.921",
+        "size": "17-26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos6.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA ECO CUERO NEGRA ART.921",
+        "size": "17-26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos7.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA LONA NEGRA ART.900",
+        "size": "17-26",
+        "price": 12900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos8.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA LONA NEGRA ART.900",
+        "size": "27-34",
+        "price": 13900,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos8.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "BOTA LONA CAMUFLADA ART.900",
+        "size": "27-34",
+        "price": 13900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos9.jpg",
         "category": "niños"
     },
     {
-        "title": "BOTA BRILLO ART.910",
-        "size": "21-26",
-        "price": 15000,
+        "title": "BOTA LONA CAMUFLADA ART.900",
+        "size": "17-26",
+        "price": 12900,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos9.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA BRILLO PLATA ART.810",
+        "size": "27-34",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos10.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA BRILLO ART.810",
+        "title": "ZAPATILLA BRILLO PLATA ART.810",
         "size": "17-26",
-        "price": 15000,
+        "price": 13500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos10.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA BRILLO NEGRA ART.810",
+        "size": "27-34",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos11.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA BRILLO ART.810",
+        "title": "ZAPATILLA BRILLO NEGRA ART.810",
         "size": "17-26",
-        "price": 15000,
+        "price": 13500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos11.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA BRILLO LUNARES ART.810",
+        "size": "27-34",
+        "price": 14500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos12.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA BRILLO LUNARES ART.810",
+        "size": "17-26",
+        "price": 13500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos12.jpg",
         "category": "niños"
     },
     {
         "title": "ZAPATILLA BRILLO ART.810",
-        "size": "17-26",
-        "price": 15000,
+        "size": "27-34",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos13.jpg",
         "category": "niños"
@@ -354,47 +394,79 @@
     {
         "title": "ZAPATILLA BRILLO ART.810",
         "size": "17-26",
-        "price": 15000,
+        "price": 13500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos13.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA LENTEJUELAS MULTICOLOR ART.840",
+        "size": "27-34",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos14.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA BRILLO ART.810",
-        "size": "17-26",
-        "price": 15000,
+        "title": "ZAPATILLA LENTEJUELAS MULTICOLOR ART.840",
+        "size": "21-26",
+        "price": 15900,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos14.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA LENTEJUELAS ROSA ART.840",
+        "size": "21-26",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos15.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA BRILLO ART.810",
-        "size": "17-26",
-        "price": 15000,
+        "title": "ZAPATILLA LENTEJUELAS ROSA ART.840",
+        "size": "27-34",
+        "price": 16900,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos15.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA LENTEJUELAS ART.840",
+        "size": "21-26",
+        "price": 15900,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos15.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA LONA JEANS UNICORNIO ART.310",
+        "size": "21-26",
+        "price": 14900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos16.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA BRILLO ART.810",
-        "size": "17-26",
-        "price": 15000,
+        "title": "ZAPATILLA LONA ABROJO NEGRO/BATIK ART.300",
+        "size": "21-26",
+        "price": 13900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos17.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA ABROJO ART.300",
-        "size": "17-26",
-        "price": 15000,
+        "title": "ZAPATILLA LONA ABROJO BLANCO/FLORES ART.320",
+        "size": "21-26",
+        "price": 15500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos18.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA ABROJO ART.320",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA LONA ABROJO NEGRO/BATIK ART.300",
+        "size": "18-20",
+        "price": 13900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos19.jpg",
         "category": "niños"
@@ -432,473 +504,505 @@
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA LONA ART.800/801",
+        "title": "ZAPATILLA LONA VERDE PASTEL ART.800",
         "size": "17-26",
-        "price": 15000,
+        "price": 11500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos24.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA LONA ART.800/801",
-        "size": "17-26",
-        "price": 15000,
+        "title": "ZAPATILLA LONA VERDE PASTEL ART.800",
+        "size": "27-34",
+        "price": 12500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos24.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA LONA CELESTE PASTEL ART.800",
+        "size": "27-34",
+        "price": 12500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos25.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA LONA ART.800/801",
+        "title": "ZAPATILLA LONA CELESTE PASTEL ART.800",
         "size": "17-26",
-        "price": 15000,
+        "price": 11500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos25.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA LONA JEANS NEGRO ART.800",
+        "size": "17-26",
+        "price": 11500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos26.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA LONA ART.800/801",
+        "title": "ZAPATILLA LONA JEANS NEGRO ART.800",
+        "size": "27-34",
+        "price": 12500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos26.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA ECO-CUERO MARRON ART.821",
         "size": "17-26",
-        "price": 15000,
+        "price": 11900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos27.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA ECO-CUERO ART.921",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA ECO-CUERO BLANCA ART.821",
+        "size": "17-26",
+        "price": 11900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos28.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA ECO-CUERO ART.921",
+        "title": "ZAPATILLA LONA NUBES ART.800",
         "size": "21-26",
-        "price": 15000,
+        "price": 11500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos29.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA UNICORNIO ART.310",
-        "size": "21-26",
-        "price": 15000,
-        "stock": 50,
-        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos30.jpg",
-        "category": "niños"
-    },
-    {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA BLANCA TACHA ART.136",
+        "size": "17-20",
+        "price": 9900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos31.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
+        "title": "ZAPATILLA BLANCA TACHA ART.285",
         "size": "21-26",
-        "price": 15000,
+        "price": 15500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos32.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA NEGRO ESTRELLA ART.134",
+        "size": "17-20",
+        "price": 9900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos33.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA NUDE ESTRELLA ART.134",
+        "size": "17-20",
+        "price": 9900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos34.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA BLANCA ESTRELLA ART.134",
+        "size": "17-20",
+        "price": 9900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos35.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
-        "size": "21-26",
-        "price": 15000,
+        "title": "ZAPATILLA ANIMAL PRINT ART.134",
+        "size": "17-20",
+        "price": 9900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos36.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA DEPORTIVA ART.145",
+        "title": "ZAPATILLA UNICORNIO ART.314",
         "size": "21-26",
-        "price": 15000,
+        "price": 15500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos37.jpg",
         "category": "niños"
     },
     {
-        "title": "ZAPATILLA MODA ART.2050 ",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA ABROJO BLANCA/PLATA ART.320",
+        "size": "27-36",
+        "price": 16900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos38.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "ZAPATILLA MODA ART.2050 ",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA ABROJO BLANCA/ROSA ART.320",
+        "size": "27-36",
+        "price": 16900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos39.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "ZAPATILLA MODA TACHAS ART.2020",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA BLANCA/PLATA ART.319",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos40.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "ZAPATILLA MODA TACHAS ART.2020",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA BLANCA/ROSA ART.319",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos41.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA NEGRO/PLATA ART.319",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos42.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA BLANCA/DORADO/ROSA ART.319",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos43.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "BLANCA ESTRELLA ART.314",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos44.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "BLACK ESTRELLA ART.314",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos45.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "NEGRA ESTRELLA ART.314",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos46.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "NEGRA TACHAS ART.316",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos47.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "BLANCA TACHAS ART.316",
+        "size": "27-36",
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos48.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA PUP'S NIKE AZUL ART.16740",
+        "size": "21-26",
+        "price": 11500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos53.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA PUP'S NIKE FUCSIA ART.16740",
+        "size": "21-26",
+        "price": 11500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos54.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "DEPORTIVA PUP'S NIKE BLANCA ART.16760",
+        "size": "21-26",
+        "price": 11500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos55.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "ZAPATILLA DEPORTIVA BARBIE ROSA/BRILLO",
+        "size": "21/26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos56.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "ZAPATILLA DEPORTIVA BARBIE ROSA/BRILLO",
+        "size": "27/34",
+        "price": 15500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos56.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "ZAPATILLA DEPORTIVA BARBIE PLATA/BRILLO",
+        "size": "21/26",
+        "price": 14500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos57.jpg",
-        "category": "adultos"
+        "category": "niños"
     },
     {
-        "title": "CAMBIAR NOMBRE",
+        "title": "ZAPATILLA DEPORTIVA BARBIE PLATA/BRILLO",
+        "size": "27/34",
+        "price": 15500,
+        "stock": 50,
+        "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos57.jpg",
+        "category": "niños"
+    },
+    {
+        "title": "CATA SUPERSTAR BLANCA/NEGRA ART.190",
         "size": "35-40",
-        "price": 15000,
+        "price": 14900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos58.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "CAMBIAR NOMBRE",
+        "title": "CATA SUPERSTAR NEGRA/BLANCA ART.190",
         "size": "35-40",
-        "price": 15000,
+        "price": 14900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos59.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "CAMBIAR NOMBRE",
+        "title": "CATA SUPERSTAR BLANCA/BLANCA ART.190",
         "size": "35-40",
-        "price": 15000,
+        "price": 14900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos60.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "CAMBIAR NOMBRE",
+        "title": "DEPORTIVA NEGRA FICSIA CATA ART.900",
         "size": "35-40",
-        "price": 15000,
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos61.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "CAMBIAR NOMBRE",
+        "title": "DEPORTIVA BRILLO CATA ART.900",
         "size": "35-40",
-        "price": 15000,
+        "price": 15900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/chicos/zapatillaschicos62.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
+        "title": "OJOTA PLAYERAS FUCSIA",
         "size": "35-40",
-        "price": 15000,
+        "price": 8500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas1.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
+        "title": "OJOTA PLAYERAS NEGRO BRILLO",
         "size": "35-40",
-        "price": 15000,
+        "price": 8500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas2.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
+        "title": "OJOTA PLAYERAS NEGRO DORADO",
         "size": "35-40",
-        "price": 15000,
+        "price": 8500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas3.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
+        "title": "OJOTA PLAYERAS NEGRO FUCSIA",
         "size": "35-40",
-        "price": 15000,
+        "price": 8500,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas4.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "CHANCLETA FARAON ART.2014 ARENA",
+        "size": "35-41",
+        "price": 10900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas5.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "CHANCLETA FARAON ART.2014 NEGRA",
+        "size": "35-41",
+        "price": 10900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas6.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "CHANCLETA ABROJO FARAON ART.2004 NEGRA",
+        "size": "35-41",
+        "price": 12900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas7.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "CHANCLETA ABROJO FARAON ART.2004 UVA",
+        "size": "35-41",
+        "price": 12900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas8.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
+        "title": "OJOTA FARAON ART.2012 UVA",
         "size": "35-40",
-        "price": 15000,
+        "price": 10900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas9.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA FARAON ART.2012 NEGRA",
+        "size": "35-41",
+        "price": 10900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas10.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA LYNETTE NEGRA",
+        "size": "35-41",
+        "price": 6900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas11.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA LYNETTE LILA",
+        "size": "35-41",
+        "price": 6900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas12.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA LYNETTE ROSA",
+        "size": "35-41",
+        "price": 6900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas13.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA LYNETTE VERDE AGUA",
+        "size": "35-41",
+        "price": 6900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas14.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA FARAON ART.120",
+        "size": "39/40??",
+        "price": 8900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas15.jpg",
-        "category": "adultos"
+        "category": "hombre"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "OJOTA FARAON",
+        "size": "39/40-41/42-43/44-45/46",
+        "price": 7900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas16.jpg",
-        "category": "adultos"
+        "category": "hombre"
     },
     {
-        "title": "OJOTA CAMBIAR NOMBRE",
-        "size": "35-40",
-        "price": 15000,
+        "title": "CHANCLETA BOCHIN",
+        "size": "38/39-40/41-42/43-44/45-46/47",
+        "price": 7900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/ojotas/ojotas17.jpg",
-        "category": "adultos"
+        "category": "hombre"
     },
     {
-        "title": "BOTINES FUTBOL",
-        "size": "35-40",
-        "price": 15000,
+        "title": "BOTINES FUTBOL CON TAPONES",
+        "size": "35-44",
+        "price": 19900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/botines1.jpg",
-        "category": "adultos"
+        "category": "hombre"
     },
     {
-        "title": "BOTINES FUTBOL",
+        "title": "BOTINES FUTBOL CON TAPONES",
         "size": "35-40",
-        "price": 15000,
+        "price": 19900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/botines2.jpg",
-        "category": "adultos"
+        "category": "hombre"
     },
     {
-        "title": "BOTINES FUTBOL",
+        "title": "BOTINES FUTBOL CON TAPONES",
         "size": "35-40",
-        "price": 15000,
+        "price": 19900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/botines3.jpg",
-        "category": "adultos"
+        "category": "hombre"
     },
     {
         "title": "PANTUFLAS",
         "size": "35-40",
-        "price": 15000,
+        "price": 7900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/pantufla1.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
         "title": "PANTUFLAS",
         "size": "35-40",
-        "price": 15000,
+        "price": 8900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/pantufla2.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
         "title": "PANTUFLAS",
         "size": "35-40",
-        "price": 15000,
+        "price": 7900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/pantufla3.jpg",
-        "category": "adultos"
+        "category": "mujer"
     },
     {
         "title": "ZAPATOS",
         "size": "35-40",
-        "price": 15000,
+        "price": 18900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/zapatos1.jpg",
         "category": "adultos"
@@ -906,9 +1010,9 @@
     {
         "title": "PANTUFLAS",
         "size": "35-40",
-        "price": 15000,
+        "price": 18900,
         "stock": 50,
         "img": "gs://calzados-siempre.appspot.com/varios/zapatos2.jpg",
-        "category": "adultos"
+        "category": "mujer"
     }
 ]
