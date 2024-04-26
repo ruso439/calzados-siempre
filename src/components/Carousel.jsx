@@ -1,7 +1,6 @@
-import React from "react";
 import { TECarousel, TECarouselItem } from "tw-elements-react";
 
-export const CarouselWithIndicators=()=> {
+export const CarouselWithIndicators = () => {
   return (
     <>
       <TECarousel showControls showIndicators ride="carousel">
@@ -40,6 +39,6 @@ export const CarouselWithIndicators=()=> {
       </TECarousel>
     </>
   );
-}
+};
 
 export default CarouselWithIndicators;
