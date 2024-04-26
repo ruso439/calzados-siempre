@@ -1,31 +1,29 @@
-import { FaGlobe, FaFacebook, FaInstagram } from 'react-icons/fa'
-import { Link } from "react-router-dom"
+import { FaGlobe, FaFacebook, FaInstagram } from "react-icons/fa";
+import { Link } from "react-router-dom";
+import { classes } from "./mutualClasses";
+
+const CategoryLink = ({ children }) => {
+  <li className="text-white">
+    <Link to={"/"}>
+      <button className={classes}>{children}</button>
+    </Link>
+  </li>;
+};
+
 export const Categories = () => {
-    return (
-        <>
-            <li className="text-white">
-                <Link to={'/'}>
-                    <button className="bg-teal-500 text-white px-4 py-2 rounded flex items-center">
-                    <FaGlobe />
-                    </button>
-                </Link>
+  return (
+    <>
+      <CategoryLink>
+        <FaGlobe />
+      </CategoryLink>
 
-            </li>
-            <li className="text-white">
-                <Link to={'/category/interior'}>
-                    <button className="bg-teal-500 text-white px-4 py-2 rounded flex items-center">
-                    <FaFacebook />
-                    </button>
-                </Link>
-            </li>
-            <li className="text-white">
-                <Link to={'/category/exterior'}>
-                    <button className="bg-teal-500 text-white px-4 py-2 rounded flex items-center">
-                    <FaInstagram />
-                    </button>
-                </Link>
+      <CategoryLink>
+        <FaFacebook />
+      </CategoryLink>
 
-            </li>
-        </>
-    )
-}
+      <CategoryLink>
+        <FaInstagram />
+      </CategoryLink>
+    </>
+  );
+};
